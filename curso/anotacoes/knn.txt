@@ -1,0 +1,10 @@
+# KNN - Vizinhos mais proximos
+
+KNN e um metodo para previsao/ classificacao.
+
+A ideia do algoritmo esta em torno da comparacao entre o objeto sujeito à analise e
+os objetos vizinhos, sendo K a quantidade desejada de vizinhos em sua metrica. Metricas
+de distancia, temos : distancia euclidiana e distancia Manhattan, como exemplo.
+
+Para dados contendo uma quantidade consideravel de ruido, utilisariamos um K muito 
+superior à 1. Como por exemplo, sinais de identificacao de voz e caligrafia.
