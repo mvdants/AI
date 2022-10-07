@@ -13,7 +13,10 @@ Codes and algorithms implemented for artificial intelligence (AI)
 <br/>
 
 <div>
-In this material, you will have introductory algorithms and some more advanced ones, two that I will develop over time.
+In this material, you will have introductory algorithms and some more advanced ones (more conceptually complex), of which I will develop over time.
+Right now, I am developing an algorithm for finding better "routes" for data and others that I use sklearn to structure my code, such as KNN, TREE DECISION and NAIVE BAYES (data classification algorithms).
+For future development, we will have other databases that we can use for code and other projects that I will implement.
 
-At this moment, we have a code that is being implemented called "AEstrella". This project is initially being developed to find the fastest route between cities. However, in the future of this project we will have other databases that we could use so that the code can relate better "choices" using the database of difficulties, weights, heuristics, etc.
+
+In this project, we will use the base libraries for development : pandas, numpy, sklearn, scikit-image, matplotlib, torch, ...
 </div>
